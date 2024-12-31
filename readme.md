@@ -68,8 +68,8 @@ npm start
 
 ### Authentication
 
-- POST `/api/auth/register`: User registration
-- POST `/api/auth/login`: User login
+- POST `/api/v1/register`: User registration
+- POST `/api/v1/login`: User login
 
 ### Addresses
 
